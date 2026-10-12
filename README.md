@@ -19,6 +19,10 @@ The Power BI dashboard has two interactive pages and a shared date slicer.
 1. **Overview** — sales KPIs, monthly revenue trend, customer-state revenue, payment contribution, and top product categories.
 2. **Customer & Operations** — delivery risk, delivery duration by state, freight burden by category, and retention breakdown.
 
+### Power BI dashboard file
+
+[Download the Power BI dashboard (.pbix)](https://drive.google.com/file/d/1ycQl4VAjKzzUV_uye21P0gk2TNly45It/view?usp=sharing)
+
 ## Key results
 
 | Metric | Result |
